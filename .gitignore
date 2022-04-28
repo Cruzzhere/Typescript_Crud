@@ -1,0 +1,9 @@
+#.env file is gonna be ignored 
+.env
+#.vscode is gonna be ignored while committing
+.vscode
+
+#.prettierrc is gonna be ignored
+.prettierrc
+
+node_modules
